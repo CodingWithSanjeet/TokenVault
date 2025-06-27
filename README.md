@@ -25,6 +25,36 @@ A modern, full-stack Node.js authentication boilerplate with JWT tokens, beautif
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/a7890e8e-cc7f-45ec-aaf8-496684f6c007" />
+
+*Clean, modern landing page with Node.js authentication overview*
+
+### 🔐 Authentication Pages
+<div align="center">
+  <img width="452" alt="image" src="https://github.com/user-attachments/assets/cee8fd6b-94b6-41d0-98bd-0914971329b2"  width="45%" alt="Login Page" />
+  <img width="464" alt="image" src="https://github.com/user-attachments/assets/21717db4-3e3f-432d-8e95-52b717d587b8" width="45%" alt="Signup Page"/>
+</div>
+
+*Beautiful, responsive authentication forms with real-time validation*
+
+### 🎯 Tech Stack Showcase
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/62388021-6edd-44aa-9585-25cfc7795fcf" />
+
+*Interactive cards displaying the complete technology stack*
+
+### ✨ UI Features
+- 🌈 **Node.js Green Theme** - Professional color palette
+- 🎨 **Gradient Animations** - Smooth, modern transitions
+- 📱 **Mobile-First Design** - Responsive across all devices
+- 🔄 **Interactive Cards** - Hover effects and animations
+- 🎯 **Clean Typography** - Modern font combinations
+- 💫 **Loading States** - Beautiful error and success messages
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose | Version |
@@ -300,9 +330,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you found this project helpful, please give it a ⭐!
 
 For questions or support, please open an issue or contact:
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 Email: sanjeet.kumar.nitt@gmail.com
+- 🐙 GitHub: [@CodingWithSanjeet](https://github.com/CodingWithSanjeet)
 
 ---
 
